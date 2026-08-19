@@ -18,7 +18,7 @@ function Hero() {
 
         <div className="hero-buttons">
           <a
-             href="/Aditi Resume 4.pdf"
+             href="/ADITI Resume 4.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="primary-button"
