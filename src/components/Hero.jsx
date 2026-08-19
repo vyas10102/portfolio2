@@ -43,7 +43,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/aditi-vyas-8aa2b7212/"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             className="secondary-button"
