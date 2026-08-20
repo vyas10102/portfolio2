@@ -18,7 +18,7 @@ function Hero() {
 
         <div className="hero-buttons">
           <a
-             href="/Aditi Resume 4.pdf"
+             href={`${import.meta.env.BASE_URL}Aditi%20Resume%204.pdf`}
             target="_blank"
             rel="noopener noreferrer"
             className="primary-button"
